@@ -11,6 +11,8 @@ Pull requests accepted, please distinguish between open resources and resources 
 
 
 ## Programming
+### Tooling
+- [Zed Editor](https://zed.dev)  -- (Open Source: Apache, GPL, AGPL) -- Open source extensible code editor from the makers of the Atom IDE that supports collaboration via github and sane AI integration.
 ### Learning
 - [Exercism](https://exercism.org) -- (Registration required for completing exercises) -- A code learning website has online mentoring and multiple programming languages available.
 - [OSSU computer science course](https://github.com/ossu/computer-science) -- (Collection of university open courseware, no registrations shoule be required) -- Mirror(?) of MIT course Introduction to Computer Science and Programming using Python.
